@@ -2,7 +2,7 @@
     "name": "quickad",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://github.com/tranngoctien4337/ido",
+    "homepage": "https://tranngoctien47.github.io/ido",
     "dependencies": {
         "@emotion/react": "^11.7.1",
         "@emotion/styled": "^11.6.0",
